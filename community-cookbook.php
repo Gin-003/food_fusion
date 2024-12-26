@@ -134,6 +134,28 @@ session_start();
                         'image' => 'img/recipes/curry.jpg',
                         'likes' => 42,
                         'description' => 'A flavorful curry dish with tender chicken and aromatic spices.'
+                    ],
+
+                    [
+                        'id' => 5,
+                        'title' => 'Buger',
+                        'author' => 'Peter',
+                        'date' => '2024-06-5',
+                        'category' => 'Dessert',
+                        'image' => 'img/recipes/buger.jpg',
+                        'likes' => 195,
+                        'description' => 'A juicy burger with tender beef, flavorful seasonings, and a perfect blend of savory toppings.'
+                    ],
+
+                    [
+                        'id' => 6,
+                        'title' => 'Sandwich',
+                        'author' => 'Justin',
+                        'date' => '2024-08-10',
+                        'category' => 'Dessert',
+                        'image' => 'img/recipes/sandwich.jpg',
+                        'likes' => 80,
+                        'description' => 'A flavorful sandwich with tender chicken and a blend of aromatic spices.'
                     ]
                 ];
 

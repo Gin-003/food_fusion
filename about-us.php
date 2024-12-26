@@ -60,20 +60,15 @@ session_start();
         <div class="row">
 
             <div class="image" data-aos="fade-right">
-                <img src="img/mmmmm.png" alt="">
+                <img src="img/mm.jpg" alt="">
             </div>
 
             <div class="content" data-aos="fade-up">
-                <p>We are two undergrad students majoring in Computer Science and Engineering. My friend and I share
-                    some common interests that include hanging out to different restaurants in the town, checking out
-                    different cuisines, talking hours and hours about food, and sometimes writing reviews on them on
-                    social media platforms. These reviews were primarily intended for the fellow foodies. Still, they
-                    were being appreciated by anyone who would read them, and many of the restaurant owners suggested
-                    that we try their food and review them. Some of our friends and relatives would also read them and
-                    suggest that we keep copies of these writings. So the idea was already at the back of our heads. But
-                    it started kicking when we got the "Web Programming" course, and we were assigned a task to create a
-                    website on something of our interest. So, we decided to team up instantly, and no wonder the idea
-                    was already there! </p>
+                <p>At Food Fusion, we combine tastes from across the world to produce inventive cuisine that delight the
+                    senses. Our team of enthusiastic chefs creates dishes that highlight culinary variety using
+                    ingredients that are obtained locally and freshly. We are committed to providing a distinctive and
+                    delectable culinary experience each and every time, whether you are eating in or ordering to go.
+                </p>
                 <div class="up"></div>
                 <a href="#"><button class="btn">learn more</button></a>
             </div>
@@ -86,45 +81,45 @@ session_start();
             <div class="box">
                 <img src="img/icon/chef.svg" alt="">
                 <h3>Recipe</h3>
-                <p>We offer recipes and cooking advice for Everyone.We are here to help you cook delicious meals with
-                    less stress and more joy.</p>
+                <p>We provide everyone with culinary tips and recipes.Our goal is to make cooking more enjoyable and
+                    less stressful for you.</p>
             </div>
 
             <div class="box">
                 <img src="img/icon/articles.svg" alt="">
                 <h3>Article</h3>
-                <p>We give the articles of any recipe.By reading our articles,people can easily learn basic skills of
-                    cooking.People will get a lot of advantages by reading the articles because it will increase their
-                    cooking skills.</p>
+                <p>We provide the ingredients for any recipe.People may simply learn the fundamentals of cooking by
+                    reading our articles.Individuals will gain a great deal from reading the articles as it will improve
+                    their cooking abilities.</p>
             </div>
 
             <div class="box">
                 <img src="img/icon/review.svg" alt="">
                 <h3>Review</h3>
-                <p>We give the food reviews of any good restaurant.We try our best not to forget to write a review,
-                    Especially when satisfied with the service and food in a restaurant.</p>
+                <p>We provide reviews of any good restaurant's food.We make an effort to remember to leave a review,
+                    particularly when we are pleased with the food and service at a restaurant.</p>
             </div>
 
             <div class="box">
                 <img src="img/icon/quality.svg" alt="">
                 <h3>Premium Membership</h3>
-                <p>We provide live cooking courses.We have our premium membership.So people can learn cooking by
-                    joining our live classes.</p>
+                <p>We provide classes in live cooking.We have a premium membership.Thus, individuals can enroll in our
+                    live classes to learn how to cook.</p>
             </div>
 
             <div class="box">
                 <img src="img/icon/camera.svg" alt="">
                 <h3>Food Photography</h3>
-                <p>we provide food photography for restaurants.If a restaurant wants to highlight their featured
-                    recipe,it can hire us for the photoshoot.after the photoshoot we highlight those Photo in our
+                <p>We offer restaurants food photography services.A restaurant might employ us for the photo session if
+                    it wishes to showcase its featured recipe.Following the photo shoot, we feature those images in our
                     gallery section.</p>
             </div>
 
             <div class="box">
                 <img src="img/icon/earphones.svg" alt="">
                 <h3>24x7 Support</h3>
-                <p>We provide the best user support to our valued users, and We offer 24/7 support.They will get help
-                    and will find answers to questions as soon as possible. </p>
+                <p>We give our esteemed users with the greatest user support available around-the-clock.As soon as
+                    possible, they will get answers to their questions and receive assistance. </p>
             </div>
         </div>
     </section>
